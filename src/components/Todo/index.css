@@ -1,0 +1,13 @@
+.todo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    width: 450px;
+    height: 70px;
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.6px 0.45px 0.5px;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
